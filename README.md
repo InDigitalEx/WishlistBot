@@ -1,2 +1,2 @@
-# TelegramBotTemplate
-Telegram bot project template using aiogram
+# WishlistBot
+Bot with the ability to create wishlists
